@@ -1,0 +1,2 @@
+# CODESOFT
+ A collection of Machine Learning projects built with Python and Scikit-learn, covering real-world classification problems:  SMS Spam Detection – Classifies messages as Spam or Ham using TF-IDF and Logistic Regression.  Credit Card Fraud Detection – Identifies fraudulent transactions using Random Forest and SMOTE.  Bank Customer Churn Prediction – Predicts customer churn based on demographic and behavioral data.  Each project includes data preprocessing, visualization, model evaluation (ROC-AUC, confusion matrix), and saved models for reuse.
